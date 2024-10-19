@@ -1,5 +1,3 @@
----
-
 # TV Program Schedule
 
 This project allows users to create a weekly TV program schedule by choosing a day and time, then selecting the programs they'd like to add to their schedule. The program will search for shows being broadcast at the specified time and allow the user to save their preferences.
@@ -71,9 +69,3 @@ Would you like to go back to the beginning? (y/n): y
 ## Contributions
 
 Feel free to fork this repository, open issues, and submit pull requests. Any contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License.
-
----
